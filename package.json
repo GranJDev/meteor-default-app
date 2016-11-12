@@ -1,10 +1,14 @@
 {
-  "name": "default-app",
+  "name": "Velore",
   "private": true,
   "scripts": {
     "start": "meteor run"
   },
   "dependencies": {
-    "meteor-node-stubs": "~0.2.0"
-  }
+    "meteor-node-stubs": "~0.2.0",
+    "vue": "^1.0.24",
+    "vuex": "^1.0.0-rc.2",
+    "vue-router": "^0.7.13"
+  },
+  "devDependencies": {}
 }
